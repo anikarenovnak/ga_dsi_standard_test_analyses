@@ -1,0 +1,48 @@
+﻿state,sat_participation,sat_total,act_participation,act_composite,total_partic,year,sat_required ,act_required,either_required,sat_free,act_free,req_category 
+Colorado,0.11,1201,1,20.8,1.11,2017,1,0,,1,1,sat req and free
+Connecticut,1,1041,0.31,25.2,1.31,2017,1,0,,1,0,sat req and free
+Delaware,1,996,0.18,24.1,1.18,2017,1,0,,1,0,sat req and free
+District of Columbia,1,950,0.32,24.2,1.32,2017,1,0,,1,0,sat req and free
+Illinois,0.09,1115,0.93,21.4,1.02,2017,1,0,,1,0,sat req and free
+Maine,0.95,1012,0.08,24.3,1.03,2017,1,0,,1,0,sat req and free
+Michigan,1,1005,0.29,24.1,1.29,2017,1,0,,1,0,sat req and free
+New Hampshire,0.96,1052,0.18,25.5,1.14,2017,1,0,,1,0,sat req and free
+Alabama,0.05,1165,1,19.2,1.05,2017,0,1,,0,1,act req and free
+Hawaii,0.55,1085,0.9,19,1.45,2017,0,1,,0,1,act req and free
+Kentucky,0.04,1247,1,20,1.04,2017,0,1,,0,1,act req and free
+Louisiana,0.04,1198,1,19.5,1.04,2017,0,1,,0,1,act req and free
+Mississippi,0.02,1242,1,18.6,1.02,2017,0,1,,0,1,act req and free
+Missouri,0.03,1271,1,20.4,1.03,2017,0,1,,0,1,act req and free
+Montana,0.1,1196,1,20.3,1.1,2017,0,1,,0,1,act req and free
+North Carolina,0.49,1081,1,19.1,1.49,2017,0,1,,0,1,act req and free
+South Carolina,0.5,1064,1,18.7,1.5,2017,0,1,,0,1,act req and free
+Utah,0.03,1238,1,20.3,1.03,2017,0,1,,0,1,act req and free
+Wisconsin,0.03,1291,1,20.5,1.03,2017,0,1,,0,1,act req and free
+Wyoming,0.03,1230,1,20.2,1.03,2017,0,1,,0,1,act req and free
+Idaho,0.93,1005,0.38,22.3,1.31,2017,0,0,1,0,0,either
+Ohio,0.12,1149,0.75,22,0.87,2017,0,0,1,0,1,either and act free
+Tennessee,0.05,1228,1,19.8,1.05,2017,0,0,1,0,0,either
+Alaska,0.38,1080,0.65,19.8,1.03,2017,0,0,0,0,0,neither 
+Arizona,0.3,1116,0.62,19.7,0.92,2017,0,0,0,0,0,neither 
+California,0.53,1055,0.31,22.8,0.84,2017,0,0,0,0,0,neither 
+Florida,0.83,1017,0.73,19.8,1.56,2017,0,0,0,0,0,neither 
+Georgia,0.61,1050,0.55,21.4,1.16,2017,0,0,0,0,0,neither 
+Indiana,0.63,1074,0.35,22.6,0.98,2017,0,0,0,0,0,neither 
+Iowa,0.02,1275,0.67,21.9,0.69,2017,0,0,0,0,0,neither 
+Kansas,0.04,1260,0.73,21.7,0.77,2017,0,0,0,0,0,neither 
+Maryland,0.69,1060,0.28,23.6,0.97,2017,0,0,0,0,0,neither 
+Minnesota,0.03,1295,1,21.5,1.03,2017,0,0,0,0,0,neither 
+New Jersey,0.7,1056,0.34,23.9,1.04,2017,0,0,0,0,0,neither 
+New Mexico,0.11,1138,0.66,19.7,0.77,2017,0,0,0,0,0,neither 
+New York,0.67,1052,0.31,24.2,0.98,2017,0,0,0,0,0,neither 
+North Dakota,0.02,1256,0.98,20.3,1,2017,0,0,0,0,0,neither 
+Oklahoma,0.07,1047,1,19.4,1.07,2017,0,0,0,1,1,neither but act and sat free
+Oregon,0.43,1108,0.4,21.8,0.83,2017,0,0,0,0,0,neither 
+Pennsylvania,0.65,1071,0.23,23.7,0.88,2017,0,0,0,0,0,neither 
+Rhode Island,0.71,1062,0.21,24,0.92,2017,0,0,0,0,0,neither 
+South Dakota,0.03,1216,0.8,21.8,0.83,2017,0,0,0,0,0,neither 
+Texas,0.62,1020,0.45,20.7,1.07,2017,0,0,0,0,0,neither 
+Vermont,0.6,1114,0.29,23.6,0.89,2017,0,0,0,0,0,neither 
+Virginia,0.65,1102,0.29,23.8,0.94,2017,0,0,0,0,0,neither 
+Washington,0.64,1075,0.29,21.9,0.93,2017,0,0,0,0,0,neither 
+West Virginia,0.14,1086,0.69,20.4,0.83,2017,0,0,0,0,0,neither 
